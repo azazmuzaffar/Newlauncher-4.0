@@ -3838,6 +3838,14 @@ p .custom-badge-group {
   font-weight: 600;
 }
 
+.table.table-floor-plan tbody tr:last-of-type td {
+  font-weight: normal;
+}
+
+.table.table-floor-plan tbody tr:last-of-type td:first-of-type {
+  font-weight: 600;
+}
+
 .table-wrap {
   border-radius: 4px 4px 0 0;
   overflow: hidden;
