@@ -708,6 +708,16 @@ h6 {
   color: #743393;
 }
 
+@media (max-width: 575.98px) {
+  .btn-outline-table {
+    font-size: 12px;
+  }
+  .btn-outline-table svg {
+    width: 12px !important;
+    height: 12px !important;
+  }
+}
+
 .btn-primary {
   background-color: #743393;
   border-color: #743393;

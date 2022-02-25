@@ -63,6 +63,13 @@
     border-color: #743393;
     color: #743393;
   }
+  @media #{$sm_device} {
+    font-size: 12px;
+    svg{
+      width: 12px !important;
+      height: 12px !important;
+    }
+  }
 }
 
 
